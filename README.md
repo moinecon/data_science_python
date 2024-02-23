@@ -1,2 +1,2 @@
-# Jupiter
+# Jupyter lab
  
