@@ -1,3 +1,3 @@
-# Jupyter lab
-## Data science with python
+## Website: https://moinecon.github.io/jupyter/
+
  
